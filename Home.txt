@@ -1,1 +1,3 @@
 Postagens
+Botão para criar postagens
+Botão para acessar Temas
